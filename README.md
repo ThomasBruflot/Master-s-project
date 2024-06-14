@@ -7,7 +7,7 @@ The folder "lfsr-input" contains the SNN hardware design that used lfsr input en
 
 The "synthesized-design" folder contains the design used to do area estimates and power estimates. It can be modified to include interface input spikes or lfsr input encoding.
 
-The two testbench folders contains testbenches and packages for the fixed point experiments design and the lfsr input encoding design.
+The two testbench folders contain testbenches and packages for the fixed point experiments design and the lfsr input encoding design.
 
 The "operator" folder contains the multiplier module used for fixed point multiplication.
 
